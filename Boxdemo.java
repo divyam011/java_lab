@@ -19,7 +19,7 @@ class Boxdemo
 		Box b=new Box();
 	    b.setDim(10,20,30);
 		double v1 = b.Volume();
-	    System.out.println("Volume of Box is"+v1);
+	    System.out.println("Volume of Box is "+v1);
 
 	}
 }
